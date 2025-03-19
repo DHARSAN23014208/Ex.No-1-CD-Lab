@@ -3,7 +3,7 @@
 # IMPLEMENTATION OF SYMBOL TABLE
 # Name : DHARSAN KUMAR R
 
-# Register Number :21223240028
+# Register Number :212223240028
 
 # Date :10/03/2025
 
